@@ -70,15 +70,15 @@ The Power BI report contains three pages:
 
 ### Page 1 – Executive Overview
 
-![Executive Overview Dashboard](images/dashboard-page-1.png)
+![Executive Overview Dashboard](Executive_Overview_Dashboard.png))
 
 ### Page 2 – Profitability & Operations
 
-![Profitability & Operations Dashboard](images/dashboard-page-2.png)
+![Profitability & Operations Dashboard](Profitability_&_Operations_Dashboard.png)
 
 ### Page 3 – Insights & Analysis
 
-![Insights & Analysis Dashboard](images/dashboard-page-3.png)
+![Insights & Analysis Dashboard](Insights_&_Analysis_Dashboard.png)
 
 ## Conclusion
 
